@@ -1,6 +1,6 @@
 # BeastNian
+![beastnian](https://user-images.githubusercontent.com/121312707/231364486-e325017c-6698-4cf9-8440-7332d2dc89f7.png)
 
-![Certificate_BeastNian](https://user-images.githubusercontent.com/81981737/151488749-9bbc5810-4584-4571-b297-68bc1c4c1eca.jpg)
 
 /**
  *Submitted for verification at BscScan.com on 2022-01-27
